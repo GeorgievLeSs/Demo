@@ -1,0 +1,27 @@
+
+section {
+    padding: 10px;
+}
+.marginZero {
+    margin: 0px;
+}
+div#map div{
+    color: red;
+}
+.alignCenter {
+    text-align: center;
+}
+#map {
+  height: 500px;
+  position: absolute;
+  z-index: -1;
+}
+    #about #map > div {
+        position: relative!important;
+    }
+    .noCoords {
+        text-align: center;
+        font-size: 26px;
+        font-weight: 700;
+        color: rgb(150, 200, 100);
+    }

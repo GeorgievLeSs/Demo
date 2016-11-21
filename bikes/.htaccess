@@ -1,0 +1,9 @@
+
+RewriteEngine On
+
+RewriteRule   ^home/?$   ?action=home [NC]
+RewriteRule   ^quote/?$   ?action=quote [NC]
+RewriteRule   ^form/?$   ?action=formPHP [NC]
+RewriteRule   ^about/?$   ?action=about [NC]
+RewriteRule   ^contacts/?$   ?action=contacts [NC]
+RewriteRule   ^thank_you/?$   ?action=thank_you [NC]
